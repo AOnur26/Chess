@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\Chess\ClassLogic\bin\Debug\net8.0\ClassLogic.deps.json
+C:\Users\pc\source\repos\Chess\ClassLogic\bin\Debug\net8.0\ClassLogic.dll
+C:\Users\pc\source\repos\Chess\ClassLogic\bin\Debug\net8.0\ClassLogic.pdb
+C:\Users\pc\source\repos\Chess\ClassLogic\obj\Debug\net8.0\ClassLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\Chess\ClassLogic\obj\Debug\net8.0\ClassLogic.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\Chess\ClassLogic\obj\Debug\net8.0\ClassLogic.AssemblyInfo.cs
+C:\Users\pc\source\repos\Chess\ClassLogic\obj\Debug\net8.0\ClassLogic.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Chess\ClassLogic\obj\Debug\net8.0\ClassLogic.dll
+C:\Users\pc\source\repos\Chess\ClassLogic\obj\Debug\net8.0\refint\ClassLogic.dll
+C:\Users\pc\source\repos\Chess\ClassLogic\obj\Debug\net8.0\ClassLogic.pdb
+C:\Users\pc\source\repos\Chess\ClassLogic\obj\Debug\net8.0\ref\ClassLogic.dll
